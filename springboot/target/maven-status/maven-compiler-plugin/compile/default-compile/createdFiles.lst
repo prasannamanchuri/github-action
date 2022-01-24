@@ -1,8 +1,0 @@
-com\capgemeni\springboot\BankAccountApplication.class
-com\capgemeni\springboot\Entity\BankAccount.class
-com\capgemeni\springboot\DaoImpl\BankAccountDaoImpl.class
-com\capgemeni\springboot\Repository\BankAccountRepository.class
-com\capgemeni\springboot\serviceImpl\BankAccountServiceImpl.class
-com\capgemeni\springboot\controller\BankAccountController.class
-com\capgemeni\springboot\Dao\BankAccountDao.class
-com\capgemeni\springboot\service\BankAccountService.class
